@@ -15,3 +15,5 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+# Django local database
+db.sqlite3
